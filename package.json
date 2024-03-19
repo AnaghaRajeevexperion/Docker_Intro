@@ -1,0 +1,13 @@
+{
+    "name": "judge0-ide",
+    "version": "1.0.0",
+    "description": "Judge0 Online IDE",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
